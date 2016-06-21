@@ -82,64 +82,6 @@
         <elementParameter xmi:id="_wzcoLDLaEeay2swbHwOQhg" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
-    <ItemsRelations xmi:id="_Z2Os8DeREeaQPI0XH_a87A">
-      <baseItem xmi:id="_Z2Os8TeREeaQPI0XH_a87A" id="_k-agUDLFEeaiKMz9xNanVQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_Z2Os8jeREeaQPI0XH_a87A" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os8zeREeaQPI0XH_a87A" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os9DeREeaQPI0XH_a87A" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os9TeREeaQPI0XH_a87A" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os9jeREeaQPI0XH_a87A" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os9zeREeaQPI0XH_a87A" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os-DeREeaQPI0XH_a87A" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os-TeREeaQPI0XH_a87A" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_Z2Os-jeREeaQPI0XH_a87A">
-      <baseItem xmi:id="_Z2Os-zeREeaQPI0XH_a87A" id="_O7aIoDN0Eeatvrr04BUbWw" version="0.1" type="job"/>
-      <relatedItems xmi:id="_Z2Os_DeREeaQPI0XH_a87A" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os_TeREeaQPI0XH_a87A" id="eqweqwe" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os_jeREeaQPI0XH_a87A" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2Os_zeREeaQPI0XH_a87A" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtADeREeaQPI0XH_a87A" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtATeREeaQPI0XH_a87A" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtAjeREeaQPI0XH_a87A" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtAzeREeaQPI0XH_a87A" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtBDeREeaQPI0XH_a87A" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_Z2OtBTeREeaQPI0XH_a87A">
-      <baseItem xmi:id="_Z2OtBjeREeaQPI0XH_a87A" id="_3UWPYDOBEeaSM-sZsmwSHQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_Z2OtBzeREeaQPI0XH_a87A" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtCDeREeaQPI0XH_a87A" id="eqweqwe" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtCTeREeaQPI0XH_a87A" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtCjeREeaQPI0XH_a87A" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtCzeREeaQPI0XH_a87A" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtDDeREeaQPI0XH_a87A" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtDTeREeaQPI0XH_a87A" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtDjeREeaQPI0XH_a87A" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2OtDzeREeaQPI0XH_a87A" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_Z2PUADeREeaQPI0XH_a87A">
-      <baseItem xmi:id="_Z2PUATeREeaQPI0XH_a87A" id="_FfhyIDN2EeaHQqgvA76HvA" version="0.1" type="job"/>
-      <relatedItems xmi:id="_Z2PUAjeREeaQPI0XH_a87A" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUAzeREeaQPI0XH_a87A" id="eqweqwe" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUBDeREeaQPI0XH_a87A" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUBTeREeaQPI0XH_a87A" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUBjeREeaQPI0XH_a87A" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUBzeREeaQPI0XH_a87A" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUCDeREeaQPI0XH_a87A" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUCTeREeaQPI0XH_a87A" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUCjeREeaQPI0XH_a87A" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_Z2PUCzeREeaQPI0XH_a87A">
-      <baseItem xmi:id="_Z2PUDDeREeaQPI0XH_a87A" id="_umkLsDLYEeaZH5-RUyZcGQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_Z2PUDTeREeaQPI0XH_a87A" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUDjeREeaQPI0XH_a87A" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUDzeREeaQPI0XH_a87A" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUEDeREeaQPI0XH_a87A" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUETeREeaQPI0XH_a87A" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUEjeREeaQPI0XH_a87A" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUEzeREeaQPI0XH_a87A" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Z2PUFDeREeaQPI0XH_a87A" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
     <migrationTask xmi:id="_SQm9YDLFEeaiKMz9xNanVQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SQm9YTLFEeaiKMz9xNanVQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SQm9YjLFEeaiKMz9xNanVQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
