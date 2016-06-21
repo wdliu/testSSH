@@ -82,6 +82,20 @@
         <elementParameter xmi:id="_wzcoLDLaEeay2swbHwOQhg" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
+    <ItemsRelations xmi:id="__hH6EDeTEeaQPI0XH_a87A">
+      <baseItem xmi:id="__hH6ETeTEeaQPI0XH_a87A" id="_8AqrEDeTEeaQPI0XH_a87A" version="0.1" type="job"/>
+      <relatedItems xmi:id="__hH6EjeTEeaQPI0XH_a87A" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6EzeTEeaQPI0XH_a87A" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6FDeTEeaQPI0XH_a87A" id="eqweqwe" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6FTeTEeaQPI0XH_a87A" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6FjeTEeaQPI0XH_a87A" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6FzeTEeaQPI0XH_a87A" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6GDeTEeaQPI0XH_a87A" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6GTeTEeaQPI0XH_a87A" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6GjeTEeaQPI0XH_a87A" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6GzeTEeaQPI0XH_a87A" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__hH6HDeTEeaQPI0XH_a87A" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_SQm9YDLFEeaiKMz9xNanVQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SQm9YTLFEeaiKMz9xNanVQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SQm9YjLFEeaiKMz9xNanVQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
