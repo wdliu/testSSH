@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_s03G0DhlEeaEG_1zpERatg" defaultContext="Default" jobType="Standard">
-  <context xmi:id="_s03G0ThlEeaEG_1zpERatg" confirmationNeeded="false" name="Default"/>
-  <parameters xmi:id="_s03G0jhlEeaEG_1zpERatg">
-    <elementParameter xmi:id="_s03G0zhlEeaEG_1zpERatg" field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
-    <elementParameter xmi:id="_s03G1DhlEeaEG_1zpERatg" field="TEXT" name="SCREEN_OFFSET_Y" value="0" show="false"/>
-    <elementParameter xmi:id="_s03G1ThlEeaEG_1zpERatg" field="TEXT" name="REPOSITORY_CONNECTION_ID" value="" show="false"/>
-    <elementParameter xmi:id="_s03G1jhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_PROPERTY_TYPENAME" value="" show="false"/>
-    <elementParameter xmi:id="_s03G1zhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_HADOOP_DISTRIBUTION" value="" show="false"/>
-    <elementParameter xmi:id="_s03G2DhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_HADOOP_VERSION" value="" show="false"/>
-    <elementParameter xmi:id="_s03G2ThlEeaEG_1zpERatg" field="TEXT" name="OOZIE_ENABLE_KERBEROS" value="" show="false"/>
-    <elementParameter xmi:id="_s03G2jhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_NAME_NODE_PRINCIPAL" value="" show="false"/>
-    <elementParameter xmi:id="_s03G2zhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_USERNAME" value="" show="false"/>
-    <elementParameter xmi:id="_s03G3DhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_GROUP" value="" show="false"/>
-    <elementParameter xmi:id="_s03G3ThlEeaEG_1zpERatg" field="TEXT" name="OOZIE_USE_KEYTAB" value="" show="false"/>
-    <elementParameter xmi:id="_s03G3jhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_KT_PRINCIPAL" value="" show="false"/>
-    <elementParameter xmi:id="_s03G3zhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_KEY_TAB" value="" show="false"/>
-    <elementParameter xmi:id="_s03G4DhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_ENABLE_OO_KERBEROS" value="" show="false"/>
-    <elementParameter xmi:id="_s03G4ThlEeaEG_1zpERatg" field="TEXT" name="OOZIE_NAME_NODE_END_POINT" value="" show="false"/>
-    <elementParameter xmi:id="_s03G4jhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_JOB_TRACKER_ENDPOINT" value="" show="false"/>
-    <elementParameter xmi:id="_s03G4zhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_END_POINT" value="" show="false"/>
+<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_7DK_oDhlEeaEG_1zpERatg" defaultContext="Default" jobType="Standard">
+  <context xmi:id="_7DK_oThlEeaEG_1zpERatg" confirmationNeeded="false" name="Default"/>
+  <parameters xmi:id="_7DK_ojhlEeaEG_1zpERatg">
+    <elementParameter xmi:id="_7DK_ozhlEeaEG_1zpERatg" field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
+    <elementParameter xmi:id="_7DK_pDhlEeaEG_1zpERatg" field="TEXT" name="SCREEN_OFFSET_Y" value="0" show="false"/>
+    <elementParameter xmi:id="_7DK_pThlEeaEG_1zpERatg" field="TEXT" name="REPOSITORY_CONNECTION_ID" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_pjhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_PROPERTY_TYPENAME" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_pzhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_HADOOP_DISTRIBUTION" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_qDhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_HADOOP_VERSION" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_qThlEeaEG_1zpERatg" field="TEXT" name="OOZIE_ENABLE_KERBEROS" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_qjhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_NAME_NODE_PRINCIPAL" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_qzhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_USERNAME" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_rDhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_GROUP" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_rThlEeaEG_1zpERatg" field="TEXT" name="OOZIE_USE_KEYTAB" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_rjhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_KT_PRINCIPAL" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_rzhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_KEY_TAB" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_sDhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_ENABLE_OO_KERBEROS" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_sThlEeaEG_1zpERatg" field="TEXT" name="OOZIE_NAME_NODE_END_POINT" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_sjhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_JOB_TRACKER_ENDPOINT" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_szhlEeaEG_1zpERatg" field="TEXT" name="OOZIE_END_POINT" value="" show="false"/>
     <routinesParameter xmi:id="_pz1l0jhlEeaEG_1zpERatg" id="_SSArkDLFEeaiKMz9xNanVQ" name="DataOperation"/>
     <routinesParameter xmi:id="_pz1l0zhlEeaEG_1zpERatg" id="_wQ54UDeTEeaQ7paLDMqmyQ" name="MDM"/>
     <routinesParameter xmi:id="_pz1l1DhlEeaEG_1zpERatg" id="_STB_QDLFEeaiKMz9xNanVQ" name="Mathematical"/>
@@ -31,48 +31,72 @@
     <routinesParameter xmi:id="_pz1l2zhlEeaEG_1zpERatg" id="_STR24DLFEeaiKMz9xNanVQ" name="TalendString"/>
     <routinesParameter xmi:id="_pz1l3DhlEeaEG_1zpERatg" id="_VZI9IDLcEeay2swbHwOQhg" name="eqweqwe"/>
   </parameters>
-  <node xmi:id="_s03G5DhlEeaEG_1zpERatg" componentName="cWireTap" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="256" posY="160">
-    <elementParameter xmi:id="_s03G5ThlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cWireTap_1" show="false"/>
-    <elementParameter xmi:id="_s03G5jhlEeaEG_1zpERatg" field="TEXT" name="URI" value="&quot;&quot;"/>
-    <elementParameter xmi:id="_s03G5zhlEeaEG_1zpERatg" field="CHECK" name="NEW_EXCHANGE" value="false"/>
-    <elementParameter xmi:id="_s03G6DhlEeaEG_1zpERatg" field="RADIO" name="EXPRESSION" value="true" show="false"/>
-    <elementParameter xmi:id="_s03G6ThlEeaEG_1zpERatg" field="RADIO" name="PROCESSOR" value="false" show="false"/>
-    <elementParameter xmi:id="_s03G6jhlEeaEG_1zpERatg" field="CLOSED_LIST" name="LANGUAGES" value="constant" show="false"/>
-    <elementParameter xmi:id="_s03G6zhlEeaEG_1zpERatg" field="TEXT" name="EXPRESSIONTXT" value="&quot;&quot;" show="false"/>
-    <elementParameter xmi:id="_s03G7DhlEeaEG_1zpERatg" field="MEMO_JAVA" name="CODE" value="System.out.println(&quot;We just downloaded: &quot;+&#xA;&#x9;&#x9;&#x9;&#x9;exchange.getIn().getHeader(&quot;CamelFileName&quot;));" show="false"/>
-    <elementParameter xmi:id="_s03G7ThlEeaEG_1zpERatg" field="CHECK" name="USE_NAMESPACES" value="false" show="false"/>
-    <elementParameter xmi:id="_s03G7jhlEeaEG_1zpERatg" field="TABLE" name="NAMESPACES" show="false"/>
-    <elementParameter xmi:id="_s03G7zhlEeaEG_1zpERatg" field="LABEL" name="WARNING" value="*Note: For Bean Language, the Expression should be a qualified class name without quotes.&#xA;*Note: For None Language, the Value should be a full expression, instead of a plain text.&#xA;*Note: For XPath Language, the Namespaces will be used automatically if it's checked." show="false"/>
-    <elementParameter xmi:id="_s03G8DhlEeaEG_1zpERatg" field="CHECK" name="COPY_ORIGINAL_MESSAGE" value="true"/>
-    <elementParameter xmi:id="_s03G8ThlEeaEG_1zpERatg" field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+  <node xmi:id="_7DK_tDhlEeaEG_1zpERatg" componentName="cWireTap" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="256" posY="160">
+    <elementParameter xmi:id="_7DK_tThlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cWireTap_1" show="false"/>
+    <elementParameter xmi:id="_7DK_tjhlEeaEG_1zpERatg" field="TEXT" name="URI" value="&quot;&quot;"/>
+    <elementParameter xmi:id="_7DK_tzhlEeaEG_1zpERatg" field="CHECK" name="NEW_EXCHANGE" value="false"/>
+    <elementParameter xmi:id="_7DK_uDhlEeaEG_1zpERatg" field="RADIO" name="EXPRESSION" value="true" show="false"/>
+    <elementParameter xmi:id="_7DK_uThlEeaEG_1zpERatg" field="RADIO" name="PROCESSOR" value="false" show="false"/>
+    <elementParameter xmi:id="_7DK_ujhlEeaEG_1zpERatg" field="CLOSED_LIST" name="LANGUAGES" value="constant" show="false"/>
+    <elementParameter xmi:id="_7DK_uzhlEeaEG_1zpERatg" field="TEXT" name="EXPRESSIONTXT" value="&quot;&quot;" show="false"/>
+    <elementParameter xmi:id="_7DK_vDhlEeaEG_1zpERatg" field="MEMO_JAVA" name="CODE" value="System.out.println(&quot;We just downloaded: &quot;+&#xA;&#x9;&#x9;&#x9;&#x9;exchange.getIn().getHeader(&quot;CamelFileName&quot;));" show="false"/>
+    <elementParameter xmi:id="_7DK_vThlEeaEG_1zpERatg" field="CHECK" name="USE_NAMESPACES" value="false" show="false"/>
+    <elementParameter xmi:id="_7DK_vjhlEeaEG_1zpERatg" field="TABLE" name="NAMESPACES" show="false"/>
+    <elementParameter xmi:id="_7DK_vzhlEeaEG_1zpERatg" field="LABEL" name="WARNING" value="*Note: For Bean Language, the Expression should be a qualified class name without quotes.&#xA;*Note: For None Language, the Value should be a full expression, instead of a plain text.&#xA;*Note: For XPath Language, the Namespaces will be used automatically if it's checked." show="false"/>
+    <elementParameter xmi:id="_7DK_wDhlEeaEG_1zpERatg" field="CHECK" name="COPY_ORIGINAL_MESSAGE" value="true"/>
+    <elementParameter xmi:id="_7DK_wThlEeaEG_1zpERatg" field="TEXT" name="CONNECTION_FORMAT" value="row"/>
   </node>
-  <node xmi:id="_s03G8jhlEeaEG_1zpERatg" componentName="cTalendJob" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="480" posY="160">
-    <elementParameter xmi:id="_s03G8zhlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cTalendJob_1" show="false"/>
-    <elementParameter xmi:id="_s03G9DhlEeaEG_1zpERatg" field="RADIO" name="FROM_REPOSITORY_JOB" value="true"/>
-    <elementParameter xmi:id="_s03G9ThlEeaEG_1zpERatg" field="RADIO" name="FROM_EXTERNAL_JAR" value="false"/>
-    <elementParameter xmi:id="_s03G9jhlEeaEG_1zpERatg" field="RADIO" name="USE_SELECTED_CONTEXT" value="true"/>
-    <elementParameter xmi:id="_s03G9zhlEeaEG_1zpERatg" field="RADIO" name="USE_ROUTE_CONTEXT" value="false"/>
-    <elementParameter xmi:id="_s03G-DhlEeaEG_1zpERatg" field="RADIO" name="USE_JOB_CONTEXT" value="false"/>
-    <elementParameter xmi:id="_s03G-ThlEeaEG_1zpERatg" field="ROUTE_INPUT_PROCESS_TYPE" name="SELECTED_JOB_NAME" value=""/>
-    <elementParameter xmi:id="_s03G-jhlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_CONTEXT" value=""/>
-    <elementParameter xmi:id="_s03G-zhlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_PROCESS" value=""/>
-    <elementParameter xmi:id="_s03G_DhlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_VERSION" value=""/>
-    <elementParameter xmi:id="_s03G_ThlEeaEG_1zpERatg" field="MODULE_LIST" name="LIBRARY" value="" show="false"/>
-    <elementParameter xmi:id="_s03G_jhlEeaEG_1zpERatg" field="TEXT" name="JOB" value="&quot;&quot;" show="false"/>
-    <elementParameter xmi:id="_s03G_zhlEeaEG_1zpERatg" field="TEXT" name="CONTEXT" value="&quot;Default&quot;" show="false"/>
-    <elementParameter xmi:id="_s03HADhlEeaEG_1zpERatg" field="TABLE" name="CONTEXTPARAMS"/>
-    <elementParameter xmi:id="_s03HAThlEeaEG_1zpERatg" field="TABLE" name="EXTERNAL_JAR_CONTEXTPARAMS" show="false"/>
-    <elementParameter xmi:id="_s03HAjhlEeaEG_1zpERatg" field="CHECK" name="PROPAGATE_HEADER" value="false"/>
-    <elementParameter xmi:id="_s03HAzhlEeaEG_1zpERatg" field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+  <node xmi:id="_7DK_wjhlEeaEG_1zpERatg" componentName="cTalendJob" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="480" posY="160">
+    <elementParameter xmi:id="_7DK_wzhlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cTalendJob_1" show="false"/>
+    <elementParameter xmi:id="_7DK_xDhlEeaEG_1zpERatg" field="RADIO" name="FROM_REPOSITORY_JOB" value="true"/>
+    <elementParameter xmi:id="_7DK_xThlEeaEG_1zpERatg" field="RADIO" name="FROM_EXTERNAL_JAR" value="false"/>
+    <elementParameter xmi:id="_7DK_xjhlEeaEG_1zpERatg" field="RADIO" name="USE_SELECTED_CONTEXT" value="true"/>
+    <elementParameter xmi:id="_7DK_xzhlEeaEG_1zpERatg" field="RADIO" name="USE_ROUTE_CONTEXT" value="false"/>
+    <elementParameter xmi:id="_7DK_yDhlEeaEG_1zpERatg" field="RADIO" name="USE_JOB_CONTEXT" value="false"/>
+    <elementParameter xmi:id="_7DK_yThlEeaEG_1zpERatg" field="ROUTE_INPUT_PROCESS_TYPE" name="SELECTED_JOB_NAME" value=""/>
+    <elementParameter xmi:id="_7DK_yjhlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_CONTEXT" value=""/>
+    <elementParameter xmi:id="_7DK_yzhlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_PROCESS" value=""/>
+    <elementParameter xmi:id="_7DK_zDhlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_VERSION" value=""/>
+    <elementParameter xmi:id="_7DK_zThlEeaEG_1zpERatg" field="MODULE_LIST" name="LIBRARY" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_zjhlEeaEG_1zpERatg" field="TEXT" name="JOB" value="&quot;&quot;" show="false"/>
+    <elementParameter xmi:id="_7DK_zzhlEeaEG_1zpERatg" field="TEXT" name="CONTEXT" value="&quot;Default&quot;" show="false"/>
+    <elementParameter xmi:id="_7DK_0DhlEeaEG_1zpERatg" field="TABLE" name="CONTEXTPARAMS"/>
+    <elementParameter xmi:id="_7DK_0ThlEeaEG_1zpERatg" field="TABLE" name="EXTERNAL_JAR_CONTEXTPARAMS" show="false"/>
+    <elementParameter xmi:id="_7DK_0jhlEeaEG_1zpERatg" field="CHECK" name="PROPAGATE_HEADER" value="false"/>
+    <elementParameter xmi:id="_7DK_0zhlEeaEG_1zpERatg" field="TEXT" name="CONNECTION_FORMAT" value="row"/>
   </node>
-  <subjob xmi:id="_s03HBDhlEeaEG_1zpERatg">
-    <elementParameter xmi:id="_s03HBThlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cWireTap_1" show="false"/>
-    <elementParameter xmi:id="_s03HBjhlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
-    <elementParameter xmi:id="_s03HBzhlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+  <node xmi:id="_7DK_1DhlEeaEG_1zpERatg" componentName="cTalendJob" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="704" posY="192">
+    <elementParameter xmi:id="_7DK_1ThlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cTalendJob_2" show="false"/>
+    <elementParameter xmi:id="_7DK_1jhlEeaEG_1zpERatg" field="RADIO" name="FROM_REPOSITORY_JOB" value="true"/>
+    <elementParameter xmi:id="_7DK_1zhlEeaEG_1zpERatg" field="RADIO" name="FROM_EXTERNAL_JAR" value="false"/>
+    <elementParameter xmi:id="_7DK_2DhlEeaEG_1zpERatg" field="RADIO" name="USE_SELECTED_CONTEXT" value="true"/>
+    <elementParameter xmi:id="_7DK_2ThlEeaEG_1zpERatg" field="RADIO" name="USE_ROUTE_CONTEXT" value="false"/>
+    <elementParameter xmi:id="_7DK_2jhlEeaEG_1zpERatg" field="RADIO" name="USE_JOB_CONTEXT" value="false"/>
+    <elementParameter xmi:id="_7DK_2zhlEeaEG_1zpERatg" field="ROUTE_INPUT_PROCESS_TYPE" name="SELECTED_JOB_NAME" value=""/>
+    <elementParameter xmi:id="_7DK_3DhlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_CONTEXT" value=""/>
+    <elementParameter xmi:id="_7DK_3ThlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_PROCESS" value=""/>
+    <elementParameter xmi:id="_7DK_3jhlEeaEG_1zpERatg" field="TECHNICAL" name="SELECTED_JOB_NAME:PROCESS_TYPE_VERSION" value=""/>
+    <elementParameter xmi:id="_7DK_3zhlEeaEG_1zpERatg" field="MODULE_LIST" name="LIBRARY" value="" show="false"/>
+    <elementParameter xmi:id="_7DK_4DhlEeaEG_1zpERatg" field="TEXT" name="JOB" value="&quot;&quot;" show="false"/>
+    <elementParameter xmi:id="_7DK_4ThlEeaEG_1zpERatg" field="TEXT" name="CONTEXT" value="&quot;Default&quot;" show="false"/>
+    <elementParameter xmi:id="_7DK_4jhlEeaEG_1zpERatg" field="TABLE" name="CONTEXTPARAMS"/>
+    <elementParameter xmi:id="_7DK_4zhlEeaEG_1zpERatg" field="TABLE" name="EXTERNAL_JAR_CONTEXTPARAMS" show="false"/>
+    <elementParameter xmi:id="_7DK_5DhlEeaEG_1zpERatg" field="CHECK" name="PROPAGATE_HEADER" value="false"/>
+    <elementParameter xmi:id="_7DK_5ThlEeaEG_1zpERatg" field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+  </node>
+  <subjob xmi:id="_7DK_5jhlEeaEG_1zpERatg">
+    <elementParameter xmi:id="_7DK_5zhlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cWireTap_1" show="false"/>
+    <elementParameter xmi:id="_7DK_6DhlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
+    <elementParameter xmi:id="_7DK_6ThlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-  <subjob xmi:id="_s03HCDhlEeaEG_1zpERatg">
-    <elementParameter xmi:id="_s03HCThlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cTalendJob_1" show="false"/>
-    <elementParameter xmi:id="_s03HCjhlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
-    <elementParameter xmi:id="_s03HCzhlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+  <subjob xmi:id="_7DK_6jhlEeaEG_1zpERatg">
+    <elementParameter xmi:id="_7DK_6zhlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cTalendJob_1" show="false"/>
+    <elementParameter xmi:id="_7DK_7DhlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
+    <elementParameter xmi:id="_7DK_7ThlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+  </subjob>
+  <subjob xmi:id="_7DK_7jhlEeaEG_1zpERatg">
+    <elementParameter xmi:id="_7DK_7zhlEeaEG_1zpERatg" field="TEXT" name="UNIQUE_NAME" value="cTalendJob_2" show="false"/>
+    <elementParameter xmi:id="_7DK_8DhlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
+    <elementParameter xmi:id="_7DK_8ThlEeaEG_1zpERatg" field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
 </talendfile:ProcessType>
