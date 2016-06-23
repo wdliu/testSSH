@@ -475,8 +475,8 @@
     <migrationTask xmi:id="_SlRmLDLFEeaiKMz9xNanVQ" id="org.talend.repository.model.migration.ReplaceVarcharArrayWithVarcharIssueTDI35719" breaks="6.2.0" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_SlRmLTLFEeaiKMz9xNanVQ" id="org.talend.designer.core.generic.model.migration.Salesforce620Migration" breaks="6.2.1" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_fSBA4TjpEeaqc7rBpzyznw" id="org.talend.repository.hadoopcluster.migration.ChangeHadoopConfJarNameMigrationTask" breaks="6.0.0" version="6.2.1" status="noimpact"/>
-    <migrationTask xmi:id="_1Amr4Dj3EeaPeISHjtjoIA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_1Amr4Tj3EeaPeISHjtjoIA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_d1uwoDkLEea6rMQUBvBvOw" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_d1uwoTkLEea6rMQUBvBvOw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_RvWDYjLFEeaiKMz9xNanVQ" login="user@user.com" firstName="user" lastName="user" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_paiLsTLYEeaZH5-RUyZcGQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
