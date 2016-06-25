@@ -128,18 +128,6 @@
       <relatedItems xmi:id="_-tOhmDOBEeaSM-sZsmwSHQ" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_-tOhmTOBEeaSM-sZsmwSHQ" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
-    <ItemsRelations xmi:id="_-tOhmjOBEeaSM-sZsmwSHQ">
-      <baseItem xmi:id="_-tOhmzOBEeaSM-sZsmwSHQ" id="_FfhyIDN2EeaHQqgvA76HvA" version="0.1" type="job"/>
-      <relatedItems xmi:id="_-tOhnDOBEeaSM-sZsmwSHQ" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-tOhnTOBEeaSM-sZsmwSHQ" id="eqweqwe" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-tOhnjOBEeaSM-sZsmwSHQ" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-tOhnzOBEeaSM-sZsmwSHQ" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-tOhoDOBEeaSM-sZsmwSHQ" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-tOhoTOBEeaSM-sZsmwSHQ" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-tOhojOBEeaSM-sZsmwSHQ" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-tOhozOBEeaSM-sZsmwSHQ" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_-tOhpDOBEeaSM-sZsmwSHQ" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
     <ItemsRelations xmi:id="_X4_L4Dn8EeamYLKy7ndMJA">
       <baseItem xmi:id="_X4_L4Tn8EeamYLKy7ndMJA" id="_4mhOgDn7EeamYLKy7ndMJA" version="0.1" type="job"/>
       <relatedItems xmi:id="_X4_L4jn8EeamYLKy7ndMJA" id="SQLike" version="Latest" type="routine"/>
@@ -493,8 +481,8 @@
     <migrationTask xmi:id="_rMOCAjn6EeamYLKy7ndMJA" id="org.talend.repository.generic.model.migration.Salesforce620WizardMigration" breaks="6.2.1" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_rMOCAzn6EeamYLKy7ndMJA" id="org.talend.repository.hadoopcluster.migration.AdaptDeprecatedHadoopVersionsMigrationTask" breaks="6.0.0" version="6.1.2" status="noimpact"/>
     <migrationTask xmi:id="_rMOCBDn6EeamYLKy7ndMJA" id="org.talend.repository.model.migration.AddDefaultVersionValueForElasticsearchLookupInput" breaks="6.2.0" version="6.2.1" status="ok"/>
-    <migrationTask xmi:id="_DrMjYDrtEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_DrNKcDrtEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_ARoxIDruEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_ARoxITruEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_RvWDYjLFEeaiKMz9xNanVQ" login="user@user.com" firstName="user" lastName="user" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_paiLsTLYEeaZH5-RUyZcGQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
