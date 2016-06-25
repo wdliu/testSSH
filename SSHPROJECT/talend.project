@@ -479,8 +479,8 @@
     <migrationTask xmi:id="_siGrcjrtEeaER6vZ6IwNCA" id="org.talend.repository.generic.model.migration.Salesforce620WizardMigration" breaks="6.2.1" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_siGrczrtEeaER6vZ6IwNCA" id="org.talend.repository.hadoopcluster.migration.AdaptDeprecatedHadoopVersionsMigrationTask" breaks="6.0.0" version="6.1.2" status="noimpact"/>
     <migrationTask xmi:id="_siGrdDrtEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.AddDefaultVersionValueForElasticsearchLookupInput" breaks="6.2.0" version="6.2.1" status="ok"/>
-    <migrationTask xmi:id="_6BN78DrtEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_6BN78TrtEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_EPXyADruEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_EPXyATruEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_RvWDYjLFEeaiKMz9xNanVQ" login="user@user.com" firstName="user" lastName="user" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_paiLsTLYEeaZH5-RUyZcGQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
