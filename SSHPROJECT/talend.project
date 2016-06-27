@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_RvWDYTLFEeaiKMz9xNanVQ" label="sshProject" description="" language="java" technicalLabel="SSHPROJECT" creationDate="2016-06-15T14:45:12.407+0800" author="_RvWDYjLFEeaiKMz9xNanVQ" productVersion="Talend Data Fabric-6.2.1.20160624_1939-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;git@github.com:wdliu/testSSH.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_RvWDYTLFEeaiKMz9xNanVQ" label="sshProject" description="" language="java" technicalLabel="SSHPROJECT" creationDate="2016-06-15T14:45:12.407+0800" author="_RvWDYjLFEeaiKMz9xNanVQ" productVersion="Talend Open Studio for Data Integration-6.2.1" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;git@github.com:wdliu/testSSH.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_SQ_X4DLFEeaiKMz9xNanVQ" label="development" code="DEV"/>
     <technicalStatus xmi:id="_SQ_X4TLFEeaiKMz9xNanVQ" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_SQ_X4jLFEeaiKMz9xNanVQ" label="production" code="PROD"/>
@@ -493,8 +493,8 @@
     <migrationTask xmi:id="_rMOCAjn6EeamYLKy7ndMJA" id="org.talend.repository.generic.model.migration.Salesforce620WizardMigration" breaks="6.2.1" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_rMOCAzn6EeamYLKy7ndMJA" id="org.talend.repository.hadoopcluster.migration.AdaptDeprecatedHadoopVersionsMigrationTask" breaks="6.0.0" version="6.1.2" status="noimpact"/>
     <migrationTask xmi:id="_rMOCBDn6EeamYLKy7ndMJA" id="org.talend.repository.model.migration.AddDefaultVersionValueForElasticsearchLookupInput" breaks="6.2.0" version="6.2.1" status="ok"/>
-    <migrationTask xmi:id="_ARoxIDruEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_ARoxITruEeaER6vZ6IwNCA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_RCdHoDwaEeaLaJC3CDUMfA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_RCdHoTwaEeaLaJC3CDUMfA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_RvWDYjLFEeaiKMz9xNanVQ" login="user@user.com" firstName="user" lastName="user" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_paiLsTLYEeaZH5-RUyZcGQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
