@@ -302,6 +302,20 @@
       <relatedItems xmi:id="_2uxTyDrtEeaER6vZ6IwNCA" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_2uxTyTrtEeaER6vZ6IwNCA" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_33X3EDxMEeaBQaqN2QKVSA">
+      <baseItem xmi:id="_33X3ETxMEeaBQaqN2QKVSA" id="_0gbJYDxMEeaBQaqN2QKVSA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_33X3EjxMEeaBQaqN2QKVSA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3EzxMEeaBQaqN2QKVSA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3FDxMEeaBQaqN2QKVSA" id="eqweqwe" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3FTxMEeaBQaqN2QKVSA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3FjxMEeaBQaqN2QKVSA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3FzxMEeaBQaqN2QKVSA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3GDxMEeaBQaqN2QKVSA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3GTxMEeaBQaqN2QKVSA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3GjxMEeaBQaqN2QKVSA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3GzxMEeaBQaqN2QKVSA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_33X3HDxMEeaBQaqN2QKVSA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_SQm9YDLFEeaiKMz9xNanVQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SQm9YTLFEeaiKMz9xNanVQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SQm9YjLFEeaiKMz9xNanVQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
