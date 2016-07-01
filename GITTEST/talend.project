@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_2siSAD91EeanUZ900RD8NA" label="gitTest" description="" language="java" technicalLabel="GITTEST" creationDate="2016-07-01T18:20:11.248+0800" author="_2siSAT91EeanUZ900RD8NA" productVersion="Talend Open Studio for Data Integration-6.1.0.20151203_1151-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;git@github.com:wdliu/testSSH.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_2siSAT91EeanUZ900RD8NA" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
