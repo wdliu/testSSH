@@ -93,7 +93,6 @@
       <relatedItems xmi:id="_KPmpBz92EeanUZ900RD8NA" id="TalendDataGenerator" version="Latest" type="routine"/>
       <relatedItems xmi:id="_KPmpCD92EeanUZ900RD8NA" id="TalendDate" version="Latest" type="routine"/>
     </ItemsRelations>
-    <deletedFolders>process/testFolder</deletedFolders>
     <migrationTask xmi:id="_5zcYkD91EeanUZ900RD8NA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5zcYkT91EeanUZ900RD8NA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5zcYkj91EeanUZ900RD8NA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
